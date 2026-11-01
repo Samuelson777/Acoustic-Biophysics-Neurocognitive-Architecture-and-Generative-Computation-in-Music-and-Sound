@@ -3,9 +3,9 @@
 ![Status](https://img.shields.io/badge/Status-Research_Manuscript_%26_Interactive_SPA-brightgreen)
 ![Author](https://img.shields.io/badge/Author-SAMUELSON_G-blue)
 ![Tech](https://img.shields.io/badge/Web_Stack-HTML5_%7C_Tailwind_CSS_%7C_Chart.js-amber)
-[![DOI](https://img.shields.io/badge/DOI%20ResearchGate-10.13140/RG.2.2.35416.66564-blue)](https://doi.org/10.13140/RG.2.2.35416.66564)  
-[![Zenodo](https://img.shields.io/badge/Zenodo-blue)](https://zenodo.org/records/19544116)  
-[![Academia.edu](https://img.shields.io/badge/Academia.edu-blue)](https://www.academia.edu/165640547/Comprehensive_Analysis_of_Atmospheric_Pollution_Integrating_Fundamental_Chemistry_Epidemiological_Metrics_Sociological_Paradigms_and_Policy_Frameworks)  
+[![DOI](https://img.shields.io/badge/DOI%20ResearchGate-10.13140/RG.2.2.34269.58081-blue)](https://doi.org/10.13140/RG.2.2.34269.58081)  
+[![Zenodo](https://img.shields.io/badge/Zenodo-blue)](https://zenodo.org/records/23864943)  
+[![Academia.edu](https://img.shields.io/badge/Academia.edu-blue)](https://www.academia.edu/180038258/Acoustic_Biophysics_Neurocognitive_Architecture_and_Generative_Computation_in_Music_and_Sound_An_Integrative_Transdisciplinary_Synthesis)  
 ![License](https://img.shields.io/badge/License-CC_BY_4.0_%2F_MIT-lightgrey)
 
 **Author:** **SAMUELSON G**  
